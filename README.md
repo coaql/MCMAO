@@ -1,5 +1,2 @@
-# MCMAO
-lavde
-kaam kro
-timepass nai
-aaaa
+# MC
+first project
